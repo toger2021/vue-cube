@@ -1,0 +1,49 @@
+{
+    "zh": {
+        "scannedSides": "扫描面: %{num}/6",
+        "calibratedSuccessfully": "校准成功",
+        "quitCalibrateMode": "点击%{keyValue}退出校准模式",
+        "currentCalibratingSide": {
+            "red": "校准红色面",
+            "orange": "校准橙色面",
+            "white": "校准白色面",
+            "yellow": "校准黄色面",
+            "blue": "校准蓝色面",
+            "green": "校准绿色面"
+        },
+        "red": "红色面",
+        "orange": "橙色面",
+        "white": "白色面",
+        "yellow": "黄色面",
+        "blue": "蓝色面",
+        "green": "绿色面",
+        "pleaseTryAgain": "请再试一遍",
+        "error": "QBR错误",
+        "haventScannedAllSides": "您没有正确扫描魔方各6面",
+        "cubeAlreadySolved": "您的魔方已复原",
+        "moves": "步骤数：%{moves}",
+        "solution": "复原教程：%{algorithm}",
+        "startingPosition": "起始位置：\n前面：中心块为绿色\n顶层：中心块为白色\n",
+        "language": "语言",
+        "solveManual": {
+            "R": "右顺90°",
+            "R'": "右逆90°",
+            "R2": "右180°",
+            "L": "左顺90°",
+            "L'": "左逆90°",
+            "L2": "左180°",
+            "U": "上顺转90°",
+            "U'": "上逆90°",
+            "U2": "上180°",
+            "D": "下顺90°",
+            "D'": "下顺90°",
+            "D2": "下180°",
+            "B": "后顺90°",
+            "B'": "后逆90°",
+            "B2": "后180°",
+            "F": "前顺90°",
+            "F'": "前逆90°",
+            "F2": "前180°"
+        }
+    }
+}
